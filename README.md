@@ -1,2 +1,7 @@
 # leetcode2016
-leetcode practice
+[leetcode][] communication repository
+
+##
+
+[leetcode]: https://leetcode.com/problemset/algorithms
+
